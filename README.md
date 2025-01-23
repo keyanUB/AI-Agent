@@ -15,6 +15,8 @@
 
 - Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security. [paper](https://arxiv.org/abs/2401.05459)
 
+- The Rise and Potential of Large Language Model Based Agents: A Survey. [paper](https://arxiv.org/pdf/2309.07864)
+
 - The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies. [paper](https://arxiv.org/pdf/2407.19354)
 
 ## Paper
