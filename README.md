@@ -54,3 +54,14 @@
 | **Use Cases**        | Foundation for transfer learning (e.g., GPT, BERT, ResNet). | Aligning LLMs with human values, reducing harmful outputs, or improving robustness. | Adapting pre-trained models to specific tasks like sentiment analysis, object detection, or medical diagnosis. | Performing tasks like translation, summarization, or question-answering without additional training. |
 | **Example**          | Training GPT on a large text corpus to learn language patterns. | Using RLHF to make ChatGPT more aligned with user intentions. | Fine-tuning BERT on a dataset of customer reviews for sentiment analysis. | Provide a few examples of English-to-French translations in the input prompt and ask the model to translate a new sentence. |
 
+
+### Reasoning
+- SAFECHAIN: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities https://arxiv.org/pdf/2502.12025
+- Are Smarter LLMs Safer? Exploring Safety-Reasoning Trade-offs in Prompting and Fine-Tuning https://arxiv.org/pdf/2502.09673
+- Challenges in Ensuring AI Safety in DeepSeek-R1 Models: The Shortcomings of Reinforcement Learning Strategies https://arxiv.org/pdf/2501.17030v1
+- A Mousetrap: Fooling Large Reasoning Models for Jailbreak with Chain of Iterative Chaos https://arxiv.org/pdf/2502.15806
+- Enhancing Model Defense Against Jailbreaks with Proactive Safety Reasoning https://arxiv.org/pdf/2501.19180
+- Safety at Scale: A Comprehensive Survey of Large Model Safety https://arxiv.org/pdf/2502.05206
+- Rethinking Bottlenecks in Safety Fine-Tuning of Vision Language Models https://arxiv.org/pdf/2501.18533
+- OVERTHINK: Slowdown Attacks on Reasoning LLMs https://arxiv.org/pdf/2502.02542
+- Demystifying Long Chain-of-Thought Reasoning in LLMs https://arxiv.org/abs/2502.03373
